@@ -1,0 +1,5 @@
+1. para clonar/iniciar la máqina virtual:
+	$ vagrant up
+2. para conectarse a la máquina se hace de la siguiente manera
+	$ ssh vagrant@192.168.33.10
+   tanto el usuario como el password que será solicitado es: vagrant
